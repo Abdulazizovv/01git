@@ -3,3 +3,8 @@
 
 
 # Bu kodlar boshqa kompyuterda yozildi
+
+
+
+
+# test uchun github
