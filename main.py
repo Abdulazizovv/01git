@@ -1,0 +1,1 @@
+# bu yerg asosiy kodlar yoziladi
